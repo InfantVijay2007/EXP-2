@@ -47,11 +47,18 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-![512297759-375fa50d-71e1-4e6b-93a9-be1b53f3cc52](https://github.com/user-attachments/assets/9933588f-9cd5-47ae-aeae-fabab2e746b0)
+![490707825-18562ae3-63dd-4088-9667-5beffbdd5b9c](https://github.com/user-attachments/assets/913cf136-6d6b-4daf-8182-84425521da6f)
 
-![512298354-ed630580-fcdd-4300-aced-064203cb5134](https://github.com/user-attachments/assets/037d0eb3-fd0b-41c8-b620-817eab2c4d0b)
+![490708060-05f8ba55-3df9-4d37-bf61-11c02dd221ef](https://github.com/user-attachments/assets/9228fe25-c0d7-4000-b69f-37be49b1888a)
 
-![512298875-a5c4e38e-f02f-4e66-a773-ffc865f00e7e](https://github.com/user-attachments/assets/c978a3be-b673-4313-bc11-c6bdab4de917)
+![490708130-f56f6391-0b13-4366-9d8e-eb33790eea82](https://github.com/user-attachments/assets/8dd7bad0-a806-4f8d-891b-74dc0e3b45ed)
+
+![490708191-5fa97588-19be-4fbe-b6ab-eb4b079b5f40](https://github.com/user-attachments/assets/a3e3e725-0932-4b25-aae5-95d650c6af35)
+
+![490708266-eba037d3-6b58-4811-864a-314cd4e2e438](https://github.com/user-attachments/assets/311cf79b-9dee-466a-9a53-3aae45611dd9)
+
+![490708339-ba2b80b6-8930-4068-b6fe-764d318658c9](https://github.com/user-attachments/assets/74951c57-bf13-440f-b550-77286666c70d)
+
 
 <img width="1075" height="624" alt="512299289-77ce2ff2-5267-43e8-ab56-549abe537b88" src="https://github.com/user-attachments/assets/bda87cf0-6813-439b-8333-8d6d43aace01" />
 
